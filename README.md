@@ -1,6 +1,3 @@
-Sure, here's a simple `README.md` for your Java project that uses Jaeger for distributed tracing:
-
-```markdown
 # Simple Java Project with Jaeger Tracing
 
 This is a simple Java application that uses Jaeger for distributed tracing. The application logs and monitors HTTP GET requests.
