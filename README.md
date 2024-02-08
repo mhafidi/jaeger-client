@@ -34,7 +34,7 @@ docker run -d --name jaeger \
 
 ```bash
 mvn clean install
-java -jar target/my-app-1.0-SNAPSHOT.jar
+java -jar target/jaeger-tracing-1.0-SNAPSHOT-jar-with-dependencies.jar yourName
 ```
 
 3. Open your web browser and navigate to `http://localhost:16686` to view the traces in the Jaeger UI.
